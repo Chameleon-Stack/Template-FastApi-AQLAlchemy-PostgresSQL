@@ -1,5 +1,8 @@
 # CHAMELEON STACK - KANBAN
 
+## Linguagens do README
+- [English version](README.md)
+
 ### 📋 PRÉ-REQUISITOS
 
 - Docker
