@@ -85,6 +85,9 @@ Run the following command in the project:
 
 ```
 pipenv shell
+```
+
+```
 pipenv install 
 ```
 
