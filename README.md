@@ -1,5 +1,7 @@
 # CHAMELEON STACK - KANBAN
 
+- [Português](README.pt.md)
+
 ### 📋 PREREQUISITES
 
 - Docker
