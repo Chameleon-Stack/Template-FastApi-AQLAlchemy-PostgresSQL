@@ -1,0 +1,23 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+toml = "*"
+sqlalchemy = "*"
+uvicorn = "*"
+freezegun = "*"
+psycopg2-binary = "*"
+bcrypt = "*"
+fastapi-login = "*"
+fastapi = "*"
+
+[dev-packages]
+pytest = "*"
+blue = "*"
+isort = "*"
+ruff = "*"
+
+[requires]
+python_version = "3.11"
