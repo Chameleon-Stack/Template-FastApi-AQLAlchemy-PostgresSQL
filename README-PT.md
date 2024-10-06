@@ -87,7 +87,10 @@ O SECRET_KEY pode ser gerado nesse link: https://djecrety.ir
 Rode o seguinte comando no projeto:
 
 ```
-pipenv shell
+pipenv shell 
+```
+
+```
 pipenv install 
 ```
 
