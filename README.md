@@ -1,6 +1,6 @@
 # CHAMELEON STACK - KANBAN
 
-- [Português](README-pt.md)
+- [Português](README-PT.md)
 
 ### 📋 PREREQUISITES
 
