@@ -96,7 +96,7 @@ pipenv install
 
 ### Starting the Project
 
-Run the following command in the project:
+Run the following commands in the project:
 
 ```
 uvicorn app:app --port 8080 --host 0.0.0.0
